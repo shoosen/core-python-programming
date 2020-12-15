@@ -1,0 +1,88 @@
+id,proposal_title,obs_band,obs_total_hrs,rank,state
+PROP-001,The origin of ORCs: a new class of astronomical objects?,L-band,64,1,Submitted
+PROP-002,Characterising large-scale overdense structures at z = 2.2 by identifying their radio members,UHF,21.9,17,Reviewed
+PROP-003,A MeerKAT Atlas of IRAS RBGS Galaxies in the Southern Hemisphere,L-band,82,83,Submitted
+PROP-004,The JO135 jellyfish galaxy: A MeerKAT perspective,L-band,11.67,25,Draft
+PROP-005,RESOLVING HI EMISSION AT KPC SCALES OF ULTRA DIFFUSE GALAXIES,L-band,48,3,Submitted
+PROP-006,From Galaxy Disk to CGM -- Deep Magnetized Halos,L-band,36,52,Submitted
+PROP-007,Radio galaxy harassment caught in the act,L-band,4.5,13,Submitted
+PROP-008,Revealing the nature of IGR J11014-6103 jets with MeerKAT,UHF,2.6,22,Draft
+PROP-009,Resolving Ultra-Diffuse Galaxies in HI,L-band,17,41,Submitted
+PROP-010,Magnetic field structure in the jellyfish galaxy JO194,L-band,12,81,Submitted
+PROP-011,Imaging new diffuse cluster radio sources selected at low frequencies,L-band,8,46,Reviewed
+PROP-012,Mapping HI around AGB stars,UHF,31,58,Submitted
+PROP-013,A MeerKAT view on galaxies in filaments falling onto the Virgo cluster (VirgoFil),L-band,22.3,9,Reviewed
+PROP-014,MeerKAT HI imaging of two southern DustPedia galaxies,L-band,20,84,Submitted
+PROP-015,Measuring the True Occurrence Rate of Jets in TDEs via Late-Time MeerKAT Observations,L-band,12,67,Submitted
+PROP-016,Observation of galaxies discovered in the Pilot FAST Ultra Deep Survey,L-band,25,72,Reviewed
+PROP-017,Understanding the unusual radio behaviour of the hot magnetic star CU Vir,UHF,8.83,71,Submitted
+PROP-018,HI observations of ultra diffuse galaxies (UDGs) in galaxy groups,L-band,15,38,Submitted
+PROP-019,Constraining quenching scenarios in Recently Quenched Elliptical (RQE) galaxies via HI study,L-band,30,77,Reviewed
+PROP-020,A Study of an Unexplored Population of ``Fast'' Radio Supernovae,L-band,30,7,Submitted
+PROP-021,Unravelling new magnetic fields in the large scale structure of the Universe: the case of the galaxy cluster A3718,L-band,25,2,Reviewed
+PROP-022,Searching for fast outflows of cold gas at intermediate redshifts,UHF,12,51,Draft
+PROP-023,Testing Standard Cosmology with Giant Radio Galaxies in the Distant Universe,L-band,18,45,Submitted
+PROP-024,GRBs: The Reverse Shock Renaissance,L-band,10,42,Submitted
+PROP-025,MeerKAT observations of the magnetized cosmic web,L-band,74.2,12,Draft
+PROP-026,Star formation and the ISM in Nearby Galaxies with MeerKAT,L-band,50,79,Submitted
+PROP-027,Using MeerKAT UHF to Bridge the Gap in Abell 2443,UHF,8,59,Reviewed
+PROP-028,Disentangling the History of Particle Acceleration In Ultra Steep Spectrum Relic Clusters Abell 2443 and CIZA J0719.5+0043,L-band,17,32,Reviewed
+PROP-029,What is the origin of the kpc-scale radio emission in radio-quiet active galactic nuclei,L-band,9,40,Draft
+PROP-030,Observing HI in the Reionization Epoch Analog Galaxy Haro11,L-band,10.92,73,Submitted
+PROP-031,Imaging the Disk and Outflow of the Starburst Galaxy NGC 253 with High-Resolution HI,UHF,45,10,Reviewed
+PROP-032,An HI perspective on galaxy evolution in Abell 2626 and its surroundings,L-band,48,26,Submitted
+PROP-033,"The connection between star formation, gas properties and magnetic field in nearby galaxies at  high spatial resolution",UHF,49,34,Submitted
+PROP-034,Antlia Cluster in HIgh def: A study of early galaxy cluster assembly,L-band,49.2,33,Draft
+PROP-035,MERGHERS: evolution of cluster scale radio sources through cosmic time,L-band,99.4,19,Reviewed
+PROP-036,The highest-redshift galaxies in the G4Jy Sample,L-band,13,44,Submitted
+PROP-037,Exo-space Weather on Late-type Stars: Impacts on Habitability of Exo-planets,UHF,12,20,Submitted
+PROP-038,Looking for Low Column Density HI with MeerKAT & FAST: NGC 3521,L-band,12,15,Submitted
+PROP-039,MeerKAT spins the Cosmic Web: Mapping a local nexus of galaxy filaments,L-band,50,18,Reviewed
+PROP-040,Radio study of X-ray emitting stars with MeerKAT,L-band,44.5,82,Submitted
+PROP-041,"A Complete Picture of Gas, Dust, and Stars in Six of the Best-Studied MeerKAT-Visible Galaxies",UHF,48,28,Draft
+PROP-042,Observations of Dwarf Galaxies with Very Extended HI Disks,L-band,36,56,Submitted
+PROP-043,TailSpin: MeerKAT observations of a diffuse cluster source in ATLBS fields,L-band,2.7,86,Submitted
+PROP-044,Probing Gamma-Ray Burst Physics with MeerKAT,UHF,42,69,Submitted
+PROP-045,A HI absorption search towards the brightest G4Jy sources,L-band,50,14,Reviewed
+PROP-046,Searching for Auroral Emission in Exoplanetary Systems,L-band,55,70,Submitted
+PROP-047,Mapping tidal interactions in nearby galaxy groups,L-band,36,78,Submitted
+PROP-048,Stuck in the trap: finding synchrotron pair halos around pulsars,UHF,24.5,55,Submitted
+PROP-049,MeerChoirs: Effects of Group Environment on Galaxy Evolution,L-band,35.9,16,Draft
+PROP-050,Chance discovery of two radio galaxies with previously-unknown extended emission,L-band,9,21,Draft
+PROP-051,Using MeerKAT for mapping cosmic shear and searching for cosmic birefringence,UHF,11,24,Submitted
+PROP-052,Exploring new regimes in particle acceleration physics: the galaxy cluster pair Abell 141,L-band,10,39,Submitted
+PROP-053,Searching for evidence of galactic winds in Centaurus A,L-band,24,68,Submitted
+PROP-054,Exploring the large scale environment and star formation properties of the Spiderweb proto-cluster at z = 2.17 with MeerKAT,UHF,24,76,Draft
+PROP-055,Multi-wavelength Real-time Fast Transients with MeerKAT,L-band,34,74,Submitted
+PROP-056,MeerKAT - uGMRT Combined Survey of the Saraswati Supercluster: Towards the SKA,UHF,82,11,Submitted
+PROP-057,Neutral Hydrogen emission at z = 0.654 in a strongly-lensed quasar,UHF,10.5,87,Draft
+PROP-058,An X/S of rare radio morphologies?,L-band,68.93,54,Submitted
+PROP-059,Ultra faint central region of galaxy NGC 1350,UHF,5,50,Reviewed
+PROP-060,HI study of ultra-diffuse galaxies and galaxy evolution in the central region of Hydra I,L-band,12,75,Submitted
+PROP-061,Low frequency follow-up of giant radio galaxies that shouldn't exist!,UHF,8,57,Submitted
+PROP-062,MeerKAT deep observation of the X-ray filament,L-band,16,23,Submitted
+PROP-063,Low-frequency MeerKAT deep observation of the X-ray filament,UHF,12,27,Submitted
+PROP-064,Indirect dark matter detection in dwarf galaxies,L-band,70,63,Draft
+PROP-065,Search for neutral Hi gas at Z~ 0.5 with the MeerKat,L-band,19,35,Submitted
+PROP-066,High redshift HI observations and a radio halo in Abell 370,UHF,12,5,Submitted
+PROP-067,MeerKAT observations of giant low surface brightness galaxies,L-band,49.5,29,Draft
+PROP-068,Probing star-planet interaction in the Proxima - Proxima b system with MeerKAT,L-band,18,6,Submitted
+PROP-069,CATCHING CLUES OF THE ENERGY TRANSPORT BY JET/WINDSIN THE NORTH TRANSITION REGION OF CENTAURUS A,L-band,9,65,Reviewed
+PROP-070,Investigating gamma-ray emitting radio galaxies,L-band,4,31,Submitted
+PROP-071,Investigating the properties of localised Fast Radio Bursts and their host galaxies,L-band,49,53,Submitted
+PROP-072,Early Radio Emission from Tidal Disruption Events,L-band,32,49,Reviewed
+PROP-073,Duty cycle and energetics of the remnant radio galaxy MIDAS J2253-3446,L-band,3.5,61,Submitted
+PROP-074,Resolving the mystery of a candidate Dark Galaxy,L-band,12,80,Draft
+PROP-075,Magnetization and kinematics in Circumgalactic Medium: Tidal vs. Gas Accretion,UHF,22,36,Submitted
+PROP-076,Formation of Gamma Ray Bursts in interacting galaxies,L-band,36,66,Submitted
+PROP-077,Search for Diffuse Radio Emission in SZ selected Galaxy Clusters in the Southern Hemisphere with the MeerKAT,L-band,24,4,Submitted
+PROP-078,Delineate the Fermi bubbles at radio with MeerKAT: a pilot study,L-band,40,47,Submitted
+PROP-079,Isolated dwarf galaxies dominated by baryons,L-band,36,62,Reviewed
+PROP-080,HI line imaging of NGC 5846 group,UHF,89,85,Reviewed
+PROP-081,To map the Warm Ionized Medium in the Galaxy using MeerKAT and FAST,L-band,8,37,Draft
+PROP-082,A MeerKAT HI-line study of Local Volume dwarf galaxies,L-band,39.06,64,Submitted
+PROP-083,A Search for Pulsars Around Sgr A* through Rotation Measure,L-band,9,8,Reviewed
+PROP-084,Accelerated evolution in the densest groups of galaxies: MeerKAT imaging of the missing HI,L-band,37.5,48,Draft
+PROP-085,MeerKAT observations of the ridge connecting the galaxy clusters pair A399-A401,L-band,52,60,Submitted
+PROP-086,A Southern Radio Survey of the Fast Blue Optical Transients,L-band,13.5,30,Draft
+PROP-087,HI intensity mapping with MeerKAT: Hunting down the power spectrum,L-band,85,43,Reviewed
